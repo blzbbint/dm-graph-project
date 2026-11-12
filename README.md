@@ -18,7 +18,7 @@ make
 | `dfs.c` | `DM_DFS` | feat/dfs |
 | `bfs.c` | `DM_BFS` | feat/bfs |
 | `dijkstra.c` | `DM_SP` | feat/dijkstra |
-| `io.c` | 입력 파싱 + `main` | feat/io |
+| `graph.c` | 입력 파싱 + `main` | feat/io |
 | `input1.txt` | DFS/BFS 입력 (시작점 1) | feat/testdata |
 | `input2.txt` | Dijkstra 입력 (시작점 1, 양의 정수 가중치) | feat/testdata |
 
