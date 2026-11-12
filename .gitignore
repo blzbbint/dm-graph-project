@@ -1,0 +1,10 @@
+# compiled binaries
+*.o
+*.out
+a.out
+dm_graph
+# editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
